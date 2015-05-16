@@ -34,6 +34,7 @@
 
 .entry-header {
 	@include fill-parent;
+    @include shift(1);
 }
 
 /* tag listing in page header */
@@ -158,12 +159,13 @@ span + .entry-title {
 /* main content block */
 
 .entry-content {
-	@include span-columns(12);
+	@include span-columns(10);
+    @include shift(1);
 	p:first-child {
 		margin-top: 0;
 	}
 	@include media($large) {
-		@include span-columns(9.5);
+		@include span-columns(10);
 	}
 	/* nice link underlines */
   p > a,
