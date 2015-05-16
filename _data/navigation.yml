@@ -1,10 +1,7 @@
 # Site navigation links
 
-- title: Contents
-  url: /
-
 - title: Articles
-  url: /articles/
+  url: /
 
 - title: About
   url: /about/
