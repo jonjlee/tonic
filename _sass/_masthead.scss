@@ -57,8 +57,8 @@
   margin-bottom: 0;
   @include animation-duration(1s);
     @include animation-delay(.75s);
-  a {
-    color: $green;
+  span {
+    color: $theme-color;
   }
 }
 

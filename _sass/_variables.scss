@@ -28,7 +28,8 @@ $white              : #fff;
 $black              : #000;
 $green              : #0E8048;
 $darkgreen          : darken($green, 15);
-$accent-color       : $black;
+$theme-color        : $green;
+$accent-color       : $darkgreen;
 $link-color         : #222;
 
 $table-border-color           : $border-color;

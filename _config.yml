@@ -5,6 +5,7 @@ locale: en_US
 description: Summaries of the most important papers in pediatrics.
 logo: #site-logo.png
 search: true
+baseurl: /tonic
 url: http://jonjlee.github.io/tonic
 
 # Jekyll configuration
@@ -32,14 +33,14 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Jonathan Lee
-  avatar: bio-photo.jpg
+  avatar: http://www.gravatar.com/avatar/15f1403c873816140422561422556855.png
   email: jonjlee@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: jonjlee
   facebook: #username
-  github: #username
+  github: jonjlee
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: jonjlee
   instagram: #username
   flickr: #username
   tumblr: #username
