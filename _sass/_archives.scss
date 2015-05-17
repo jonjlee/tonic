@@ -31,7 +31,7 @@
     text-transform: uppercase;
     display: none;
     @include media($medium) {
-      display: inline;
+      display: block;
     }
   }
   /* post excerpt */
@@ -45,6 +45,18 @@
     @include media($large) {
       width: 60%;
     }
+    i {
+      display: block;
+      @include font-size(12, no, 1);
+      color: $gray-text-color;
+    }
+  }
+  /* post tags */
+  .tags {
+    display: block;
+    text-align: right;
+    color: $gray-text-color;
+    @include font-size(12, no, 1);
   }
 }
 
