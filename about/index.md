@@ -15,7 +15,9 @@ layout: page
 
 Here are the articles in priority order that are scheduled to appear on this site:
 
-## Upcoming articles
+1. [The Inhaled Steroid Treatment as Regular Therapy in early asthma (START) study](http://www.ncbi.nlm.nih.gov/pubmed/11514041)
+  1. [Five year followup](http://www.jacionline.org/article/S0091-6749%2808%2900416-8/abstract)
+2. [A Population-Based Study of Measles, Mumps, and Rubella Vaccination and Autism](http://www.nejm.org/doi/full/10.1056/NEJMoa021134)
 
 ## How can I help?
 
