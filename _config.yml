@@ -2,7 +2,7 @@
 
 title: tonic
 locale: en_US
-description: Summaries of the most important papers in pediatrics.
+description: Helpful summaries of important papers in pediatrics.
 logo: #site-logo.png
 search: true
 baseurl: /tonic
