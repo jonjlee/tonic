@@ -6,17 +6,17 @@ layout: page
 
 ## What this site is all about
 
-* *Quick summaries* and one liners to use during rounds.
-* *Caveats* that show you understand what the article actually says and if it can be applied to your patient.
-* *Rigorous analysis* using an EBM framework for when you need to sit down and dissect an article.
-* *Community* driven discussions to share your ideas.
+* **Quick summaries** and one liners to use during rounds.
+* **Caveats** that show you understand what the article actually says and if it can be applied to your patient.
+* **Rigorous analysis** using an EBM framework for when you need to sit down and dissect an article.
+* **Community** driven discussions to share your ideas.
 
 ## Upcoming articles
 
 Here are the articles in priority order that are scheduled to appear on this site:
 
 1. [The Inhaled Steroid Treatment as Regular Therapy in early asthma (START) study](http://www.ncbi.nlm.nih.gov/pubmed/11514041)
-  1. [Five year followup](http://www.jacionline.org/article/S0091-6749%2808%2900416-8/abstract)
+  * [Five year followup](http://www.jacionline.org/article/S0091-6749%2808%2900416-8/abstract)
 2. [A Population-Based Study of Measles, Mumps, and Rubella Vaccination and Autism](http://www.nejm.org/doi/full/10.1056/NEJMoa021134)
 
 ## How can I help?
