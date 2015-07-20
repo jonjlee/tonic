@@ -28,4 +28,14 @@
       color: $black;
     }
   }
+  a > img {
+      background-color: #555;
+      width: 25px;
+      padding: 4px;
+      margin-top: -12px;
+      border-radius: 6px;
+      &:hover {
+        background-color: $black;
+      }
+    }
 }
