@@ -14,5 +14,4 @@ search_omit: true
         {% if post.tags %} <span class="tags">{{ post.tags | join: ', ' }}</span>{% endif %}
         </a>
     </article></li>
-{% endfor %}
 </ul>

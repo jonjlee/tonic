@@ -6,7 +6,7 @@ description: Summaries of important papers in pediatrics.
 logo: #site-logo.png
 search: true
 baseurl: /tonic
-url: http://jonjlee.github.io/tonic
+url: //jonjlee.github.io/tonic
 
 # Jekyll configuration
 
@@ -29,6 +29,7 @@ kramdown:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
+comments: true
 
 # Site owner
 owner:
