@@ -99,10 +99,6 @@ a {
 	&:focus {
 		color: darken($link-color, 20);
 	}
-	&:hover,
-	&:active {
-		outline: 0;
-	}
 }
 
 /*
