@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No Antibiotics for Most Acute Otitis Media
+title: No antibiotics for most acute otitis media
 modified: null
 categories: blog
 excerpt: 2011 NEJM article supporting early use of Augmentin to treat AOM.
@@ -11,6 +11,7 @@ image:
   feature: null
 published: true
 ---
+
 
 
 ### Quick Reference
