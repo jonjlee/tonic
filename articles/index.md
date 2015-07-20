@@ -13,5 +13,7 @@ search_omit: true
         {% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}
         {% if post.tags %} <span class="tags">{{ post.tags | join: ', ' }}</span>{% endif %}
         </a>
-    </article></li>
+    </article>
+    </li>
+{% endfor %}
 </ul>
