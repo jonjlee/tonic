@@ -20,6 +20,7 @@ body {
 
 // COLORS =====================================================
 $body-color         : #fff;
+$title-color        : #333;
 $text-color         : #222;
 $gray-text-color    : lighten($text-color, 20);
 $base-color         : #343434;    
@@ -31,7 +32,7 @@ $green              : #0E8048;
 $darkgreen          : darken($green, 15);
 $theme-color        : $green;
 $accent-color       : $darkgreen;
-$link-color         : #222;
+$link-color         : #0076df;
 
 $table-border-color           : $border-color;
 $table-border                 : 1px solid $table-border-color;

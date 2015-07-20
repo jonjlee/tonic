@@ -40,5 +40,8 @@ published: true
 {{ page.citation }}
 
 * [Article on cochrane.org][Cochrane]
-* [Abstract on PubMed][PubMed]
+* [Abstract on PubMed (2013 update)][PubMed]
 * [2004](https://scholar.google.com/scholar?cites=16813170742658441819) and [2013](https://scholar.google.com/scholar?cites=13995223531602721090) versions cited by > 500 articles
+
+[Cochrane]: http://www.cochrane.org/CD000219/ARI_antibiotics-for-acute-middle-ear-infection-acute-otitis-media-in-children
+[PubMed]: http://www.ncbi.nlm.nih.gov/pubmed/23440776
