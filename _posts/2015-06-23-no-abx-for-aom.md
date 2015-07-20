@@ -24,7 +24,7 @@ published: true
 
 ### Why is this study important?
 
-* There have been **tons of studies** on antibiotics and AOM published in high powered journals **with conflicting results**. A big one with 300 patient [in 2011 in the New England Journal][NEJM] showed to the opposite conclusion. **This is a meta-analysis**, which is the best form of evidence, and it was **updated in 2015**. Cochrane's known for high quality reviews and updates their articles regularly.
+* There have been **tons of studies** on antibiotics and AOM published in high powered journals **with conflicting results**. A big one with 300 patients [in 2011 in the New England Journal][NEJM] showed to the opposite conclusion. **This is a meta-analysis**, which is the best form of evidence, and it was **updated in 2015**. Cochrane's known for high quality reviews and updates their articles regularly.
 
 ### Comparators
 
