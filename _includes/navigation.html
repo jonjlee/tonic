@@ -15,6 +15,7 @@
 
 {% include browser-upgrade.html %}
 
+{% if !page.hide_logo %}
 {% if page.image.feature %}<header class="masthead">
 	{% if site.logo != null %}
 		<div class="wrap">
@@ -31,5 +32,6 @@
 		<h2 class="site-description" itemprop="description">{{ site.description }}</h2>
 	</div>
 </header><!-- /.masthead -->{% endif %}
+{% endif %}
 
 <div class="js-menu-screen menu-screen"></div>
