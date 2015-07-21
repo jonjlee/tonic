@@ -31,6 +31,7 @@ img.entry-feature-image {
 }
 div.entry-feature-image {
     @include fill-parent;
+    position: relative;
     width: 100%; 
     height: 150px;
     margin-top: -50px;
@@ -43,6 +44,26 @@ div.entry-feature-image {
     @include media($large) {
         height: 500px;
         margin-top: -95px;
+    }
+    h1 {
+        position: absolute;
+
+        width: 100%;
+        text-align: center;
+
+        top: 50%;
+        margin-top: -0.5em;
+
+        color: $white;
+        font-family: $heading-font;
+        font-weight: 600;
+        @include font-size(32,no);
+        @include media($medium) {
+            @include font-size(36,no);
+        }
+        @include media($large) {
+            @include font-size(48,no);
+        }
     }
 }
 

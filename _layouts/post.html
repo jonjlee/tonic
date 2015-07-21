@@ -18,26 +18,34 @@
 <div id="main" role="main">
   <article class="hentry">
     {% if page.image.feature %}
-      <div style="background-image: url({{ page.image.feature }});" class="entry-feature-image"></div>
+      <div style="background-image: url({{ page.image.feature }});" class="entry-feature-image">
+        <h1>{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>        
+      </div>
       <p class="image-credit">
       {% if page.image.credit %}
-        Image credit: <a href="{{ page.image.creditlink }}"></a>{{ page.image.credit }}</p>
+        Image credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a>
       {% endif %}
+      </p>
     {% endif %}
 
     <div class="entry-wrapper">
       <header class="entry-header">
 
-        <!--
+        <!-- List of tags
         <span class="entry-tags">{% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>
         -->
-        {% if page.link %}
-          <h1 class="entry-title"><a href="{{ page.link }}">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %} <span class="link-arrow">&rarr;</span></a></h1>
-        {% else %}
-          <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
+
+        {% if page.image.feature == null %}
+          {% if page.link %}
+            <h1 class="entry-title"><a href="{{ page.link }}">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %} <span class="link-arrow">&rarr;</span></a></h1>
+          {% else %}
+            <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
+          {% endif %}
         {% endif %}
       </header>
-<!--       <footer class="entry-meta">
+
+<!--  Author sidebar
+       <footer class="entry-meta">
         {% if page.author %}
           {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
         {% endif %}
@@ -54,6 +62,7 @@
         {% if page.ads == true %}{% include ad-sidebar.html %}{% endif %}
       </footer>
  -->
+
       <div class="entry-content">
         {{ content }}
         {% if (site.owner.disqus-shortname and page.comments) or site.comments %}

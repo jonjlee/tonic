@@ -15,16 +15,21 @@
 <div id="main" role="main">
   <article class="entry">
     {% if page.image.feature %}
-      <div style="background-image: url({{ page.image.feature }});" class="entry-feature-image"></div>
+      <div style="background-image: url({{ page.image.feature }});" class="entry-feature-image">
+        <h1>{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
+      </div>
       <p class="image-credit">
       {% if page.image.credit %}
-        Image credit: <a href="{{ page.image.creditlink }}"></a>{{ page.image.credit }}</p>
+        Image credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a>
       {% endif %}
+      </p>
     {% endif %}
 
     <div class="entry-wrapper">
       <header class="entry-header">
-        <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
+        {% if page.image.feature == null %}
+          <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
+        {% endif %}
       </header>
       <div class="entry-content">
         {{ content }}
