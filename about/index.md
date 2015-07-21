@@ -1,6 +1,8 @@
 ---
 layout: page
 published: true
+image:
+    feature: https://farm4.staticflickr.com/3670/18971389660_7c3ab5957a_k_d.jpg
 ---
 
 
