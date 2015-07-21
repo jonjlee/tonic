@@ -29,6 +29,7 @@ kramdown:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
+# Enable disqus for all posts
 comments: true
 
 # Site owner
@@ -36,7 +37,7 @@ owner:
   name: Jonathan Lee
   avatar: http://www.gravatar.com/avatar/15f1403c873816140422561422556855.png
   email: jonjlee@gmail.com
-  disqus-shortname:
+  disqus-shortname: tonic-blog
   twitter: jonjlee
   facebook: #username
   github: jonjlee
