@@ -211,6 +211,6 @@ pre {
 // Global Transition
 // ---------------------------------------------------
 
-b, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, .highlight {
+b, strong, em, blockquote, p, q, figure, img, h1, h2, header, input, .highlight {
 	@include transition(all .2s ease);
 }
