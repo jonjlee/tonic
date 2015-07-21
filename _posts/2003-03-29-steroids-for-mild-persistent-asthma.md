@@ -12,14 +12,20 @@ image:
 
 
 
+
 ### Quick Reference
 
-* ""
+* "The START trial - an international randomized controlled trial in 2003 - showed you should treat mild persistent asthma early with steroids because it reduces the number of exacerbations."
 
 ### Caveats
 
 * The study only used budesonide. We need to look to other studies to prove that other steroids work too.
 * No dosing guidelines are given in this study.
+* Steroids have a small effect on growth.
+
+#### What does START stand for?
+
+"Steroid Treatment as Regular Therapy". The study design and rationale is described in a [separate paper](http://www.ncbi.nlm.nih.gov/pubmed/11514041).
 
 ### Why is this study important?
 
