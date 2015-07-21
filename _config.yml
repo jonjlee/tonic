@@ -4,6 +4,7 @@ title: tonic
 locale: en_US
 description: Summaries of important papers in pediatrics.
 logo: #site-logo.png
+textlogo: #tonic
 search: true
 baseurl: /tonic
 url: //jonjlee.github.io/tonic
