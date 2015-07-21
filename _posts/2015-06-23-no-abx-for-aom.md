@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Don't give antibiotics for most acute otitis media"
+title: "Avoid antibiotics for most cases of acute otitis media"
 modified: null
 categories: blog
 excerpt: "A 2015 Cochrane meta-analysis. Don't give antibiotics for AOM except to kids under 2 with discharge or bilateral infection."
@@ -8,7 +8,7 @@ citation: "Venekamp RP, Sanders SL, Glasziou PP, Del mar CB, Rovers MM. Antibiot
 tags: 
   - Infectious Disease
 image: 
-  feature: null
+  feature: #http://cbsnews2.cbsistatic.com/hub/i/r/2013/02/07/bb4783a9-c444-11e2-a43e-02911869d855/thumbnail/620x350/f3967308d359dbe31e6d6f88d2f6641c/crying-baby.jpg
 published: true
 ---
 
