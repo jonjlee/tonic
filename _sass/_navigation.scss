@@ -4,6 +4,7 @@
 
 .navigation-wrapper {
   text-align: center;
+  background-color: $body-color;
   @include clearfix;
   ul {
     display: inline-block;

@@ -8,6 +8,7 @@
 
 #main {
 	@include clearfix;
+    background: $body-color;
 }
 
 .entry,
@@ -18,6 +19,16 @@
 }
 
 /* feature image */
+
+.entry-with-feature-image {
+    margin-top: 100px;
+    @include media($medium) {
+        margin-top: 265px;
+    }
+    @include media($large) {
+        margin-top: 415px;
+    }
+}
 
 img.entry-feature-image {
 	margin: 20px 0 0;
@@ -31,19 +42,21 @@ img.entry-feature-image {
 }
 div.entry-feature-image {
     @include fill-parent;
-    position: relative;
+    position: fixed;
+    top: 0;
+    z-index: -1;
+
     width: 100%; 
-    height: 150px;
-    margin-top: -50px;
+    height: 190px;
+    border-bottom: #444 5px solid;
+
     background-position: center;
     background-size: cover;
     @include media($medium) {
-        height: 350px; /* bigger image for bigger devices */
-        margin-top: -95px;
+        height: 430px; /* bigger image for bigger devices */
     }
     @include media($large) {
-        height: 500px;
-        margin-top: -95px;
+        height: 580px;
     }
     h1 {
         position: absolute;
