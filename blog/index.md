@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Blog
-excerpt: "An archive of blog posts sorted by date."
+excerpt: "Articles by publication date."
 search_omit: true
 ---
 
