@@ -1,0 +1,18 @@
+.trello-embed {
+    @include font-size(18,yes,28);
+}
+.trello-board-header, .trello-list-name {
+    display: none;
+}
+
+.trello-card:before {
+    content: "\2022";
+    margin-right: 0.5em;
+}
+
+.trello-card {
+    display: block;
+    padding-left: 1em;
+    text-indent: -1em;
+    margin-left: 2em;
+}

@@ -17,12 +17,7 @@ published: true
 
 Here are the articles in priority order that are scheduled to appear on this site:
 
-1. [The Inhaled Steroid Treatment as Regular Therapy in early asthma (START) study](http://www.ncbi.nlm.nih.gov/pubmed/11514041)
-  * [Five year followup](http://www.jacionline.org/article/S0091-6749%2808%2900416-8/abstract)
-2. [A Population-Based Study of Measles, Mumps, and Rubella Vaccination and Autism](http://www.nejm.org/doi/full/10.1056/NEJMoa021134)
-3. [An overview of retrospective case-control studies investigating the relationship between prone sleeping position and SIDS](http://onlinelibrary.wiley.com/doi/10.1111/j.1440-1754.1991.tb00414.x/abstract)
-4. [Breastfeeding and the Use of Human Milk](http://pediatrics.aappublications.org/content/early/2012/02/22/peds.2011-3552)
-5. [Does Screening by "Pap" Smears Help Prevent Cervical Cancer?][Lancet-Pap]
+<script src="https://trello.com/b/LeU02vQy.js"></script>
 
 ## How can I help?
 
