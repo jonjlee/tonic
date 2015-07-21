@@ -11,11 +11,15 @@ image:
 ---
 
 
+
 ### Quick Reference
 
 * ""
 
 ### Caveats
+
+* The study only used budesonide. We need to look to other studies to prove that other steroids work too.
+* No dosing guidelines are given in this study.
 
 ### Why is this study important?
 
@@ -26,7 +30,7 @@ image:
 ### Study Design
 
 * Study Type: Randomized controlled trial
-* Population: 7241 patients in 32 countries. All with mild persistent asthma for < 2 years not previously treated with steroids.
+* Population: 7241 patients in 32 countries between 5 to 66 years old. All had mild persistent asthma for < 2 years not previously treated with steroids.
 
 ### Recent Studies
 
