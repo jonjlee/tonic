@@ -15,7 +15,7 @@ image:
 
 ### Quick Reference
 
-* "The START trial - an international randomized controlled trial in 2003 - showed you should treat mild persistent asthma early with steroids because it reduces the number of exacerbations."
+* "The START trial - an international randomized controlled trial in 2003 - showed you should treat mild persistent asthma early with steroids because it reduces future exacerbations."
 
 ### Caveats
 
