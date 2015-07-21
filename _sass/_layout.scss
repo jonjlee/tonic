@@ -339,6 +339,7 @@ span + .entry-title {
 	.entry-date {
 		@include font-size(14,no);
 		text-transform: uppercase;
+		text-align: right;
 		display: none;
 		@include media($medium) {
 			display: inline;
