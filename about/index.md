@@ -1,9 +1,10 @@
 ---
 layout: page
 published: true
-image:
-    feature: https://farm4.staticflickr.com/3670/18971389660_7c3ab5957a_k_d.jpg
+image: 
+  feature: "https://farm4.staticflickr.com/3670/18971389660_7c3ab5957a_k_d.jpg"
 ---
+
 
 
 
@@ -21,6 +22,8 @@ image:
 Here are the articles in priority order that are scheduled to appear on this site:
 
 <script src="https://trello.com/b/LeU02vQy.js"></script>
+
+Vote for articles in this list or comment on them by [creating a free Trello account](https://trello.com/signup?returnUrl=%2Fb%2FLeU02vQy%2Fupcoming-tonic-articles).
 
 ## How can I help?
 
