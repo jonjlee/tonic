@@ -3,7 +3,7 @@ layout: post
 title: "Algorithm to identify ALTEs that can be discharged"
 modified: null
 categories: blog
-excerpt: "A 2012 prospective cohort study at CHOP. Most ALTEs don't need admissions. Use the presented algorithm to help find those that might need intervention."
+excerpt: "A 2012 prospective cohort study at CHOP. Most ALTEs don't need admission. Use this algorithm to determine who can go home."
 citation: "Mittal MK, Sun G, Baren JM. A clinical decision rule to identify infants with apparent life-threatening event who can be safely discharged from the emergency department. Pediatr Emerg Care. 2012;28(7):599-605."
 tags:
   - Pulmonary
