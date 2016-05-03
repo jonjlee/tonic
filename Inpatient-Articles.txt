@@ -1,0 +1,91 @@
+Abscess/cellulitis
+- Garber: Should I prescribe antibiotics after draining an abscess in a young child? Should I pack his wound? Do I prescribe decolonizing measures?
+- Wathen: Blood Culture Associations in Children With a Diagnosis of Cellulitis in the Era of Methicillin-Resistant Staphylococcus aureus. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998118/
+- Malone 2013: Blood cultures in the evaluation of uncomplicated skin and soft tissue infections. http://www.ncbi.nlm.nih.gov/pubmed/23918896
+
+Acute Abd Pain
+- Kim 2013: Acute Abdominal Pain in Children. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3915729/
+
+ALTE
+- CDR for ALTE
+- Fu 2012: Apparent life-threatening events: an update. http://www.ncbi.nlm.nih.gov/pubmed/22855928
+
+Anaphylaxis
+- Langley 2013: Anaphylaxis, urticaria, and angioedema. http://www.ncbi.nlm.nih.gov/pubmed/23729774
+
+Asthma
+- Cincinatti childrens 2010: Management of acute exacerbation of ASTHMA in children. http://www.cincinnatichildrens.org/WorkArea/DownloadAsset.aspx?id=87871
+
+Bacteremia
+- Biondi 2013: Epidemiology of bacteremia in febrile infants in the United States. http://www.ncbi.nlm.nih.gov/pubmed/24218461
+- Rappaport 2011: Should blood cultures be obtained in all infants 3 to 36 months presenting with significant fever? http://www.ncbi.nlm.nih.gov/pubmed/24510929
+
+Bronchiolitis
+- Newer guideline article in email to Kaneaster
+- Cincinatti childrens 2010: Management of first time episode Bronchiolitis in infants less than 1 year of age. http://www.cincinnatichildrens.org/WorkArea/DownloadAsset.aspx?id=87885
+- Ralston 2013: Decreasing unnecessary utilization in acute bronchiolitis care: results from the value in inpatient pediatrics network. http://www.ncbi.nlm.nih.gov/pubmed/23047831
+- Mussman 2013: Suctioning and length of stay in infants hospitalized with bronchiolitis. http://www.ncbi.nlm.nih.gov/pubmed/23460088
+- Schroeder 2013: Apnea in Children Hospitalized With Bronchiolitis. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3813402/
+- Skjerven 2013: Racemic Adrenaline and Inhalation Strategies in Acute Bronchiolitis. http://www.nejm.org/doi/full/10.1056/NEJMoa1301839
+- Librizzi 2104: Appropriateness of testing for serious bacterial infection in children hospitalized with bronchiolitis. http://www.ncbi.nlm.nih.gov/pubmed/24435599
+
+Cervical lymphadenitis
+- McCulloh 2011: Cervical lymphadenitis http://www.hospitalpediatrics.org/content/1/1/52.full.pdf
+
+Croup
+- Rittichier 2000: Outpatient treatment of moderate croup with dexamethasone: intramuscular versus oral dosing. http://www.ncbi.nlm.nih.gov/pubmed/11099587
+- Malhotra 2001: Viral Croup. http://pedsinreview.aappublications.org/content/22/1/5.extract
+
+Erythema multiforme / Steven's Johnson syndrome
+- Finkelstein 2011: Recurrence and outcomes of Stevens-Johnson syndrome and toxic epidermal necrolysis in children. http://www.ncbi.nlm.nih.gov/pubmed/21890829
+
+Failure to thrive
+- Jaffe 2011: Failure to Thrive: Current Clinical Concepts. http://pedsinreview.aappublications.org/content/32/3/100.extract
+- Ficicioglu 2009: Failure to Thrive: When to Suspect Inborn Errors of Metabolism. http://pediatrics.aappublications.org/content/124/3/972.abstract
+
+Febrile neonate
+- Cincinatti childrens 2010: Fever of Uncertain Source In infants 60 days of age or less. http://www.cincinnatichildrens.org/workarea/downloadasset.aspx?id=87913
+- Evans 2013: Time to detection of bacterial cultures in infants aged 0 to 90 days. http://www.ncbi.nlm.nih.gov/pubmed/24340409
+
+Febrile UTI
+- AAP 2011: Urinary Tract Infection: Clinical Practice Guideline for the Diagnosis and Management of the Initial UTI in Febrile Infants and Children 2 to 24 Months. http://pediatrics.aappublications.org/content/early/2011/08/24/peds.2011-1330.full.pdf
+
+Gastroenteritis
+- Parker 2013: Rapid adoption of Lactobacillus rhamnosus GG for acute gastroenteritis. http://www.ncbi.nlm.nih.gov/pubmed/23457156
+
+Gastroesophageal reflux
+- Lightdale 2013: Gastroesophageal Reflux: Management Guidance for the Pediatrician. http://pediatrics.aappublications.org/content/early/2013/04/24/peds.2013-0421
+- Chung 2013: Are there risks associated with empiric acid suppression treatment of infants and children suspected of having gastroesophageal reflux disease? http://www.ncbi.nlm.nih.gov/pubmed/24319831
+
+Hyperbilirubinemia
+- AAP 2004: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation. http://pediatrics.aappublications.org/content/114/1/297.full
+- Hoppenot 2012: Neonatal bilirubin triage with transcutaneous meters: when is a blood draw necessary? http://www.ncbi.nlm.nih.gov/pubmed/24313028
+
+Kawasaki syndrome
+- Burns 2000: Kawasaki Disease: A Brief History. http://pediatrics.aappublications.org/content/106/2/e27.full
+- Son 2013: Kawasaki Disease. http://pedsinreview.aappublications.org/content/34/4/151.extract
+
+Meningitis
+- Hysinger 2012: Enterovirus Meningitis With Marked Pleocytosis. http://hosppeds.aappublications.org/content/2/3/173.extract
+- Mann 2008: Meningitis. http://www.ncbi.nlm.nih.gov/pubmed/19047432
+
+Non-accidental trauma
+- Richardson 2012: Pediatric head trauma: abuse or not? http://www.ncbi.nlm.nih.gov/pubmed/24313033
+- Asnes 2010: Managing Child Abuse General Principles. http://pedsinreview.aappublications.org/content/31/2/47.full
+
+Osteomyelitis
+- Conrad 2010: Acute Hematogenous Osteomyelitis. http://pedsinreview.aappublications.org/content/31/11/464.extract
+- Peltola 2010: Short- versus long-term antimicrobial treatment for acute hematogenous osteomyelitis of childhood: prospective, randomized trial on 131 culture-positive cases. http://www.ncbi.nlm.nih.gov/pubmed/20842069
+- Pushker 2013: Role of oral corticosteroids in orbital cellulitis. http://www.ncbi.nlm.nih.gov/pubmed/23622565
+- Rudloe 2010: Acute periorbital infections: who needs emergent imaging? http://www.ncbi.nlm.nih.gov/pubmed/20194288
+
+Periorbital infections
+- Hauser 2010: Periorbital and Orbital Cellulitis. http://pedsinreview.aappublications.org/content/31/6/242.short
+
+Pneumonia
+- Williams 2013: Narrow vs broad-spectrum antimicrobial therapy for children hospitalized with pneumonia. http://www.ncbi.nlm.nih.gov/pubmed/24167170
+- Heine 2013: The prevalence of bacteremia in pediatric patients with community-acquired pneumonia: guidelines to reduce the frequency of obtaining blood cultures. http://www.ncbi.nlm.nih.gov/pubmed/24340408
+- Bradley 2011: The Management of Community-Acquired Pneumonia in Infants and Children Older Than 3 Months of Age: Clinical Practice Guidelines by the Pediatric Infectious Diseases Society and the Infectious Diseases Society of America. http://www.idsociety.org/uploadedFiles/IDSA/Guidelines-Patient_Care/PDF_Library/2011%20CAP%20in%20Children.pdf
+
+Shock
+- Yager 2010: Shock. http://pedsinreview.aappublications.org/content/31/8/311.extract
