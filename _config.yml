@@ -13,7 +13,7 @@ url: //jonjlee.github.io/tonic
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
