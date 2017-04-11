@@ -25,7 +25,7 @@ image:
 
 #### What does START stand for?
 
-"Steroid Treatment as Regular Therapy". The study design and rationale is described in a [separate paper](http://www.ncbi.nlm.nih.gov/pubmed/11514041).
+* "Steroid Treatment as Regular Therapy". The study design and rationale is described in a [separate paper](http://www.ncbi.nlm.nih.gov/pubmed/11514041).
 
 ### Study Design
 
