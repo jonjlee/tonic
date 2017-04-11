@@ -13,7 +13,7 @@ image:
 
 
 
-### Quick Reference
+### Important Points
 
 * "The START trial - an international randomized controlled trial in 2003 - showed you should treat mild persistent asthma early with steroids because it reduces future exacerbations."
 
@@ -27,18 +27,10 @@ image:
 
 "Steroid Treatment as Regular Therapy". The study design and rationale is described in a [separate paper](http://www.ncbi.nlm.nih.gov/pubmed/11514041).
 
-### Why is this study important?
-
-### Comparators
-
-### Outcomes
-
 ### Study Design
 
 * Study Type: Randomized controlled trial
 * Population: 7241 patients in 32 countries between 5 to 66 years old. All had mild persistent asthma for < 2 years not previously treated with steroids.
-
-### Recent Studies
 
 ### Citation
 
