@@ -23,8 +23,6 @@ published: true
 
 * "A Cochrane meta-analysis updated in 2015 showed that 'antibiotics were not very useful for most children with AOM'. It doesn't reduce pain or long term effects like hearing loss."
 
-### Caveats
-
 ### Why is this study important?
 
 * There are **tons of studies** on antibiotics and AOM in high powered journals **with conflicting results**. In fact, a big one with 300 patients [in 2011 in the New England Journal][NEJM] showed to the opposite conclusion to this article. But, **this is a meta-analysis**, which is the best form of evidence. Cochrane's known for high quality reviews and updates their articles regularly. It was **updated in 2015**.
