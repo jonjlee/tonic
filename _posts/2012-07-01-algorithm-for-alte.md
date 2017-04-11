@@ -13,7 +13,7 @@ image:
 published: true
 ---
 
-### Quick Reference
+### Summary of Important Points
 
 One of the bigger ALTE studies from CHOP in 2012 showed that:
 
