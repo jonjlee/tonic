@@ -19,7 +19,7 @@ image:
 
 * This article is important because it's the original one that got everyone to start using propanolol.
 * Dr. Léauté-Labrèze originally proposed using propanolol in a [NEJM letter to the editor](http://www.nejm.org/doi/full/10.1056/NEJMc0708819#t=article).
-* The same doctor published a randomized trial in 2015 with 460 patients. It's (free on the NEJM)[https://www.ncbi.nlm.nih.gov/pubmed/18550886].
+* The same doctor published a randomized trial in 2015 with 460 patients. It's [free on the NEJM](https://www.ncbi.nlm.nih.gov/pubmed/18550886).
 
 ### What hospitals were represented?
 
