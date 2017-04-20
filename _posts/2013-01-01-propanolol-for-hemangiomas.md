@@ -24,3 +24,11 @@ image:
 ### What hospitals were represented?
 
 * The first authors are from the Medical College of Wisconsin. Others include Northwestern, Indiana University, Children's National, Columbia, Gunderson Lutheran, Baylor, Hopkins, CHW, Seattle Children's, Birthmark Institute, Eastern Virginia Medical School, UCSF
+
+### Citation
+
+### Citation
+
+{{ page.citation }} [[PubMed][PubMed]]
+
+[PubMed]: https://www.ncbi.nlm.nih.gov/pubmed/23266923
