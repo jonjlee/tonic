@@ -27,8 +27,6 @@ image:
 
 ### Citation
 
-### Citation
-
 {{ page.citation }} [[PubMed][PubMed]]
 
 [PubMed]: https://www.ncbi.nlm.nih.gov/pubmed/23266923
